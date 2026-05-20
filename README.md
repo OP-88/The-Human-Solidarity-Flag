@@ -27,10 +27,13 @@ The flag’s geometry is deliberately minimalist, sharp, and high-contrast, ensu
 
 ---
 
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+
 ## 📂 Repository Structure
 
 ```text
+├── LICENSE                           # CC BY-NC-SA 4.0 legal text
 ├── The Human Solidarity Flag.png     # High-resolution raster image (Web/Preview)
 ├── The Human Solidarity Flag.svg     # Infinite-scale vector asset (Print/Production)
-├── LICENSE                           # CC BY-NC-SA 4.0 legal text
 └── README.md                         # Project manifesto and documentation
