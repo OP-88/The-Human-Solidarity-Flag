@@ -6,6 +6,9 @@
 
 ![The Human Solidarity Flag](The%20Human%20Solidarity%20Flag.png)
 
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+
 ## 📌 Overview
 
 The **Human Solidarity Flag** is an open-source, non-governmental, and entirely secular symbol designed to represent humanity as a single, synchronized, and completely interconnected ecosystem. 
@@ -26,8 +29,6 @@ The flag’s geometry is deliberately minimalist, sharp, and high-contrast, ensu
 * **Symbolism:** The heartbeat pulse is a universal diagnostic signal instantly understood by any medical professional or civilian worldwide. Because it is rendered as one continuous line made of diverse tones, it states a fundamental systemic truth: **a break or act of attrition against any segment of the spectrum compromises the structural integrity and vitality of the entire human family.**
 
 ---
-
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 
 ## 📂 Repository Structure
